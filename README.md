@@ -61,7 +61,7 @@ int main ()
 ```
 
 ## 第十一題 均標與前標計算
-```c
+```C
 #include <stdio.h>
 int main()
 {
