@@ -59,6 +59,7 @@ int main ()
 
 
 ```
+
 ## 第十一題 均標與前標計算
 ```c
 #include <stdio.h>
@@ -89,6 +90,5 @@ int main()
 	printf("前標:%.1f\n",averageTop);
 }
 	
-
 
 ```
