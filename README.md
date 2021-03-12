@@ -21,7 +21,7 @@ int main ()
 }
 ```
 
-##A的B次方函數
+## A的B次方函數
 ```C
 #include <stdio.h>
 int main ()
