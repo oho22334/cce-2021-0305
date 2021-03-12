@@ -59,7 +59,7 @@ int main ()
 
 
 
-## 第十一題 均標與前標計算
+##  均標與前標計算
 ```C
 #include <stdio.h>
 int main()
@@ -91,3 +91,39 @@ int main()
 	
 
 ```
+##判別正方形
+
+```C
+#include <stdio.h>
+int main ()
+{
+	int a,b;
+	scanf("%d%d",&a,&b);
+	printf("Enter two numbers: ");
+	if(a==b)
+	printf(" It is a square ");
+	else
+	printf(" It is not a square ");
+}
+```
+
+##2進位轉10進位
+
+
+```C
+
+#include <stdio.h>
+int main ()
+{
+	int a,b;
+	scanf("%d%d",&a,&b);
+	printf("Enter two numbers: ");
+	if(a==b)
+	printf(" It is a square ");
+	else
+	printf(" It is not a square ");
+}
+```
+
+
+
